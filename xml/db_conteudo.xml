@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<conteudo>
+		<postagem codigo="1">
+			<titulo>ALoren ipsum dolor sit amet</titulo>
+			<corpo>Consectetur adipiscing elit. Sed condimentum porttitor nisi in iaculis. Aliquam posuere neque non risus ornare porttitor. Vivamus laoreet ante orci. Praesent quis semper eros. Donec sollicitudin diam ut venenatis dictum. Praesent ullamcorper, orci ac blandit sollicitudin, massa leo tristique libero, sit amet lacinia urna nunc in sem. Proin tincidunt massa et massa condimentum dignissim.</corpo>
+			<imagem_1 fileName="img_a.jpg">img_a.jpg</imagem_1>
+		</postagem>
+		<postagem codigo="2">
+			<titulo>BNulla quis massa sed ipsum facilisis elementum</titulo>
+			<corpo>Duis maximus odio ut hendrerit rhoncus. Fusce imperdiet congue dapibus. Praesent et dignissim nibh. Integer egestas, nulla non scelerisque aliquam, elit nibh posuere lectus, ac facilisis magna orci quis orci. Pellentesque sodales eleifend eros, molestie pretium magna bibendum id. Integer faucibus dignissim metus eget ullamcorper. Vestibulum placerat lacus eget ex pretium, non viverra leo venenatis. In condimentum viverra posuere. Nulla sit amet leo aliquam, suscipit magna ut, porttitor orci. Donec sit amet diam quis risus feugiat viverra. Vivamus at lacus nunc. Ut consequat velit id est volutpat, nec accumsan ligula ornare.</corpo>
+			<imagem_1 fileName="img_b.jpg">img_b.jpg</imagem_1>
+		</postagem>
+		<postagem codigo="3">
+			<titulo>CCurabitur nunc nibh</titulo>
+			<corpo>Bibendum eget lobortis ac, interdum a augue. Mauris sollicitudin diam at nulla aliquet, vel fringilla est cursus. Fusce scelerisque vel nulla et ultrices. Praesent quis tortor vitae libero fermentum rhoncus. Donec eleifend est quis purus feugiat vehicula. Sed mi tortor, malesuada in cursus et, congue nec lacus. Vestibulum fringilla, neque et luctus vehicula, quam risus viverra arcu, eget dictum nibh nisl at augue. Fusce dignissim turpis in sem dignissim scelerisque. Nullam eu cursus dolor. Sed tempus dui eget viverra eleifend. Nulla lobortis libero id mauris ultrices, a consequat ipsum tincidunt. Mauris cursus iaculis eleifend. Mauris vulputate at metus ac tempor. Nulla fermentum magna eget iaculis rhoncus. In ullamcorper nulla ac lacus placerat, at vulputate tellus pharetra.</corpo>
+			<imagem_1 fileName="img_c.jpg">img_c.jpg</imagem_1>
+		</postagem>
+		<postagem codigo="4">
+			<titulo>DLorem ipsum dolor sit amet</titulo>
+			<corpo>Consectetur adipiscing elit. Sed condimentum porttitor nisi in iaculis. Aliquam posuere neque non risus ornare porttitor. Vivamus laoreet ante orci. Praesent quis semper eros. Donec sollicitudin diam ut venenatis dictum. Praesent ullamcorper, orci ac blandit sollicitudin, massa leo tristique libero, sit amet lacinia urna nunc in sem. Proin tincidunt massa et massa condimentum dignissim.</corpo>
+			<imagem_1 fileName="img_a.jpg">img_a.jpg</imagem_1>
+		</postagem>
+		<postagem codigo="5">
+			<titulo>ENulla quis massa sed ipsum facilisis elementum</titulo>
+			<corpo>Duis maximus odio ut hendrerit rhoncus. Fusce imperdiet congue dapibus. Praesent et dignissim nibh. Integer egestas, nulla non scelerisque aliquam, elit nibh posuere lectus, ac facilisis magna orci quis orci. Pellentesque sodales eleifend eros, molestie pretium magna bibendum id. Integer faucibus dignissim metus eget ullamcorper. Vestibulum placerat lacus eget ex pretium, non viverra leo venenatis. In condimentum viverra posuere. Nulla sit amet leo aliquam, suscipit magna ut, porttitor orci. Donec sit amet diam quis risus feugiat viverra. Vivamus at lacus nunc. Ut consequat velit id est volutpat, nec accumsan ligula ornare.</corpo>
+			<imagem_1 fileName="img_b.jpg">img_b.jpg</imagem_1>
+		</postagem>
+		<postagem codigo="6">
+			<titulo>FCurabitur nunc nibh</titulo>
+			<corpo>Bibendum eget lobortis ac, interdum a augue. Mauris sollicitudin diam at nulla aliquet, vel fringilla est cursus. Fusce scelerisque vel nulla et ultrices. Praesent quis tortor vitae libero fermentum rhoncus. Donec eleifend est quis purus feugiat vehicula. Sed mi tortor, malesuada in cursus et, congue nec lacus. Vestibulum fringilla, neque et luctus vehicula, quam risus viverra arcu, eget dictum nibh nisl at augue. Fusce dignissim turpis in sem dignissim scelerisque. Nullam eu cursus dolor. Sed tempus dui eget viverra eleifend. Nulla lobortis libero id mauris ultrices, a consequat ipsum tincidunt. Mauris cursus iaculis eleifend. Mauris vulputate at metus ac tempor. Nulla fermentum magna eget iaculis rhoncus. In ullamcorper nulla ac lacus placerat, at vulputate tellus pharetra.</corpo>
+			<imagem_1 fileName="img_c.jpg">img_c.jpg</imagem_1>
+		</postagem>
+	</conteudo>
